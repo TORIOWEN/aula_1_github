@@ -12,3 +12,15 @@ aula 2 do git senac
 ### git push
 1. para sincronizar ou subir mudanças para repositorio remoto 
 2. git push -u origin da "nome da branch"
+
+branch é uma ramificação de uma linha do tempo do projeto
+
+### criar novas ramificações
+git branch nome_que_você_quiser
+trocar de branch 
+git checkout e o nome
+
+ex criar
+git branch v2
+ex mudar
+git checkout v2
