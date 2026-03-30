@@ -1,2 +1,14 @@
-# aula_1_github
+# Aula_2_github
 aula 2 do git senac
+## aula sobre comando git 
+1. adicionar arquivos área de "stage"
+2. pode ser usado o nome do arquivo ou . ou * para adicionar todos 
+
+## git commit
+1. usamos para criar um lembrete ou anotação para um ponto de mudança
+2. colocamos uma mensagem 
+3. podemos usar o comando "git commit" -a -m "mensagem"
+
+### git push
+1. para sincronizar ou subir mudanças para repositorio remoto 
+2. git push -u origin da "nome da branch"
