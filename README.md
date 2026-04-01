@@ -12,3 +12,6 @@ aula 2 do git senac
 ### git push
 1. para sincronizar ou subir mudanças para repositorio remoto 
 2. git push -u origin da "nome da branch"
+
+### git pull
+1-buscar alterações de outra branch
